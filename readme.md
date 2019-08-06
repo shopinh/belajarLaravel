@@ -18,3 +18,4 @@
 ## Halaman Admin
  - User = miqbal.admin@email.com
  - Pass = admin123
+# belajarLaravel
